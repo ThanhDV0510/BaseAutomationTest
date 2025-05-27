@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49224" started-at="2020-08-14T02:30:01Z" finished-at="2020-08-14T02:30:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49224" started-at="2020-08-14T02:30:01Z" finished-at="2020-08-14T02:30:50Z">
+      <class name="wize.Test_Bugs">
+        <test-method status="PASS" signature="KhoiTaoCacNguonTaiNguyen()[pri:0, instance:wize.Test_Bugs@73846619]" name="KhoiTaoCacNguonTaiNguyen" is-config="true" duration-ms="16375" started-at="2020-08-14T02:30:01Z" finished-at="2020-08-14T02:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KhoiTaoCacNguonTaiNguyen -->
+        <test-method status="PASS" signature="PrintNameTestCase(java.lang.reflect.Method)[pri:0, instance:wize.Test_Bugs@73846619]" name="PrintNameTestCase" is-config="true" duration-ms="2" started-at="2020-08-14T02:30:18Z" finished-at="2020-08-14T02:30:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void wize.Test_Bugs.TT_18963_TT_18964() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintNameTestCase -->
+        <test-method status="PASS" signature="TT_18963_TT_18964()[pri:0, instance:wize.Test_Bugs@73846619]" name="TT_18963_TT_18964" duration-ms="32818" started-at="2020-08-14T02:30:18Z" finished-at="2020-08-14T02:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TT_18963_TT_18964 -->
+      </class> <!-- wize.Test_Bugs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

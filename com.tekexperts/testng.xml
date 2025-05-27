@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	
+
+   <!--  <test name="Test 1">
+		<classes>
+
+			<class name="wize.Test_Functional_JobList" />
+		</classes>
+	</test>
+	
+	<test name="Test 2">
+		<classes>
+
+			<class name="wize.Test_Functional_PositionList" />
+		</classes>
+	</test>
+
+	<test name="Test 3 ">
+		<classes>
+
+			<class name="wize.Test_Functional_JobLevelList" />
+		</classes>
+	</test>
+	
+		<test name="Test 4">
+		<classes>
+
+			<class name="wize.Test_Functional_Assessment" />
+		</classes>
+	</test>
+	
+	<test name="Test 5">
+		<classes>
+
+			<class name="wize.Test_Functional_Baseline_Job" />
+		</classes>
+	</test>
+	
+		<test name="Test 6">
+		<classes>
+
+			<class name="wize.Test_Functional_QuestionPool" />
+		</classes>
+	</test>
+	
+    <test name="Test 8">
+		<classes>
+
+			<class name="wize.Test_Functional_Skill" />
+		</classes>
+	</test> -->
+	
+		<test name="Test 9">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_Organization" />
+		</classes>
+
+	</test>
+	
+	<test name="Test 10">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_RoleManagement" />
+		</classes>
+	</test>
+	
+	<test name="Test 11">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_SecurityProfile" />
+		</classes>
+	</test>
+	
+	<test name="Test 12">
+		<classes>
+			<class name="wize.Test_FunctionSet_FunctionSet" />
+		</classes>
+	</test>
+	
+	<test name="Test 13">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_GeneralSettings" />
+		</classes>
+	</test>
+	
+	<test name="Test 14">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_GeneralSettings" />
+		</classes>
+	</test>
+	
+	<test name="Test 15">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_JobLevel" />
+		</classes>
+	</test>
+	
+	
+	<test name="Test 16">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_Position" />
+		</classes>
+	</test>
+	
+	<test name="Test 17">
+		<classes>
+			<class name="wize.Test_FunctionSet_QuestionPool" />
+		</classes>
+	</test>
+	
+		<test name="Test 18">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_Skills" />
+		</classes>
+	</test>
+	
+	<test name="Test 19">
+		<classes>
+			<class name="wize.Test_FunctionSet_Assessment" />
+		</classes>
+	</test>
+	
+	<!-- <test name="Test 20">
+		<classes>
+
+			<class name="wize.Test_Assessment_ApproveRequestedTest" />
+		</classes>
+	</test>
+	<test name="Test 21">
+		<classes>
+
+			<class name="wize.Test_Assessment_ManuallyAssign" />
+		</classes>
+	</test> -->
+	
+	<!-- <test name="Test 30"> 
+	     <classes> 
+	
+	        <class name="wize.Test_Functional_MyContribution" /> 
+		
+		</classes> 
+		
+		</test> -->
+	
+	
+	<!-- <test name="Test 22">
+		<classes>
+
+			<class name="wize.Test_Assessment_PublicTestList" />
+		</classes>
+
+	</test>
+	
+	<test name="Test 23">
+		<classes>
+
+			<class name="wize.Test_Functional_LandingPage" />
+		</classes>
+	</test>
+	
+	<test name="Test 24">
+		<classes>
+
+			<class name="wize.Test_Functional_Baseline_Position" />
+		</classes>
+	</test> -->
+	
+     <test name="Test 25">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_JobList" />
+		</classes>
+	</test>
+
+	<!-- <test name="Test 26">
+		<classes>
+
+			<class name="wize.Test_DashBoard_FrontLineManager" />
+		</classes>
+	</test>
+
+	<test name="Test 27">
+		<classes>
+
+			<class name="wize.Test_Functional_AssessmentLibrary_Filter" />
+		</classes>
+	</test>
+
+	
+	<test name="Test 28">
+		<classes>
+
+			<class name="wize.Test_SwitchProfiles" />
+		</classes>
+	</test>
+	
+	
+	<test name="Test 29">
+		<classes>
+
+			<class name="wize.Test_Functional_Dashboard" />
+		</classes>
+	</test> -->
+
+	<test name="Test 30">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_TalentManagement_Employee" />
+		</classes>
+	</test>
+	
+	<test name="Test 31">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_TalentManagement_Talent" />
+		</classes>
+	</test>
+
+	<test name="Test 32">
+		<classes>
+
+			<class name="wize.Test_FunctionSet_ControlBoardOnTopbar" />
+		</classes>
+	</test>
+	
+	<!-- <test name="Test 33">
+		<classes>
+			<class name="wize.Test_Functional_LearningContent" />
+		</classes>
+	</test>
+	<test name="Test 34">
+		<classes>
+			<class name="wize.Test_Functional_Goalline_Job" />
+		</classes>
+	</test>
+	<test name="Test 35">
+		<classes>
+			<class name="wize.Test_Functional_GoalLineDimension" />
+		</classes>
+	</test>
+	<test name="Test 36">
+		<classes>
+			<class name="wize.Test_Functional_GoalLineJob" />
+		</classes>
+	</test>
+	<test name="Test 37">
+		<classes>
+			<class name="wize.Test_Functional_GoalLinePosition" />
+		</classes>
+	</test> -->
+	<test name="Test 38">
+		<classes>
+			<class name="wize.Test_FunctionSet_GeneralSettings_ReasonForLeavingTheJob" />
+		</classes>
+	</test>
+	<!-- <test name="Test 39">
+		<classes>
+			<class name="wize.Test_TalentManagement_Data_Personal" />
+		</classes>
+	</test>
+	<test name="Test 40">
+		<classes>
+			<class name="wize.Test_Functional_Assessment_AttendeeTab" />
+		</classes>
+	</test>
+	<test name="Test 41">
+		<classes>
+			<class name="wize.Test_Functional_Assessment_ScheduleTab" />
+		</classes> 
+	</test> -->
+	<!-- Test -->
+</suite> <!-- Suite -->
